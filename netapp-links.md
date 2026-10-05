@@ -12,6 +12,8 @@
     4. [Thrive Performance](https://performancemanager4.successfactors.com/sf/pmreviews?bplte_company=netappinc&_s.crb=T67iz6Jw4f%252bIW80MdM3GpPl8Y%252bxTEMElyj62mUS2KCQ%253d#/)
     5. [NAG](https://nag.netapp.com/)
     6. [SDP AI](https://sdpengap.openenglab.netapp.com)
+    7. [Domain Ownership](https://netapp.atlassian.net/wiki/spaces/UMF/pages/686007605/Domain+Ownership+and+Team+Operating+Model)
+    8. [Spend AI](https://spend.ai.eng.netapp.com/?view=personal)
 
 5. [Referrals At Netapp](https://app.eightfold.ai/refer/?query=Data%20Analyst&location=any&pid=26898302&domain=netapp.com&show_multiple=false&triggerGoButton=false)
 
@@ -34,7 +36,12 @@
         3. [Design System PRs](https://bitbucket.ngage.netapp.com/projects/OCCM/repos/bluexp-design-system/pull-requests)
     4. BlueXP Style:
         1. [BlueXP Style Repo](https://bitbucket.ngage.netapp.com/projects/OCCM/repos/bluexp-style/browse)
-    5. Confluence:
+    5. Jenkins:
+        1. [NCL Console Agent Operator](https://bluexp-jenkins.daas.netapp.com/job/NCL_CI_Build_Pipelines/job/build_console_agent_operator/)
+        2. [Deploy Single Node NCL](https://bluexp-jenkins.daas.netapp.com/job/NCL_CI_Build_Pipelines/job/Deploy_Single_Node_NCL/)
+        3. [SM3 Console Agent Operator](https://bluexp-jenkins.daas.netapp.com/job/NCL_CI_Build_Pipelines/job/build_console_agent_operator_sm3/)
+        4. [Deploy SM3 1Node TopoLVM](https://bluexp-jenkins.daas.netapp.com/job/NCL_CI_Build_Pipelines/job/Deploy_SM3_1N_TopoLVM/)
+    6. Confluence:
         1. [Guide to getting started with BlueXP](https://confluence.ngage.netapp.com/display/UMF/Guide+to+getting+started+with+BlueXP)
         2. BlueXP Name Change:
             1. [Infra](https://confluence.ngage.netapp.com/display/UMF/BXP+name+change)
