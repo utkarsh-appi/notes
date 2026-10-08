@@ -66,3 +66,6 @@
                 1. [Storage Classes PRD](https://confluence.ngage.netapp.com/spaces/OSSG/pages/1378918279/Storage+Classes+in+NetApp+Console+local%C2%A0)
                 2. [Storage Management Service Architecture](https://confluence.ngage.netapp.com/spaces/UMF/pages/1383058201/Storage+Management+Service+-+Architecture)
                 3. [Figma](https://www.figma.com/design/8D1e8mQT0Rq589SCiLNWvN/%F0%9F%8F%8E%EF%B8%8F-NCL---Policies?node-id=2-132&p=f&m=dev)
+                4. [Response Policy UX](https://www.figma.com/design/NpPafzy3J4gwTZWAwXv7tt/Full-GA---Storage-class?node-id=434-119660&p=f&m=dev)
+                5. [Associate/Disassociate UX](https://www.figma.com/design/NpPafzy3J4gwTZWAwXv7tt/Full-GA---Storage-class?node-id=96-76283&p=f&m=dev)
+                6. 
